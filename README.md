@@ -32,7 +32,6 @@ I am a Computer Engineering student at **University of Information Technology (U
 ### 🔧 Tools & OS
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Keil%20uVision-005A9C?style=for-the-badge&logo=windows&logoColor=white" alt="Keil" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
@@ -54,7 +53,7 @@ I am a Computer Engineering student at **University of Information Technology (U
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThjnh&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThjnh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HThjnh&layout=compact&theme=radical)
 
 ---
