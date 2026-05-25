@@ -53,8 +53,8 @@ I am a Computer Engineering student at **University of Information Technology (U
 ---
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThjnh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HThjnh&layout=compact&theme=radical)
+![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=HThjnh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HThjnh&layout=compact&theme=radical)
 
 ---
 
