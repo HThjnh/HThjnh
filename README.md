@@ -59,7 +59,7 @@ I am a Computer Engineering student at **University of Information Technology (U
 ---
 
 ## 📫 Connect with me:
-- 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/h%C6%B0ng-th%E1%BB%8Bnh-nguy%E1%BB%85n-21b7a13b2/)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/h%C6%B0ng-th%E1%BB%8Bnh-nguy%E1%BB%85n-21b7a13b2/)
 - 📧 Email: [nhthinh209.work@gmail.com](mailto:nhthinh209.work@gmail.com)
 
 ⚡ *"The best way to predict the future is to invent it."*
